@@ -3,6 +3,6 @@ body{
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    background-color: rgb(184, 171, 156);
+    background-color: red;
 
 }
